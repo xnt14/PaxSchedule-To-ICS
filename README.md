@@ -3,6 +3,8 @@ PaxSchedule-To-ICS
 
 This is a Ruby script that parses the PAX schedule page and creates an iCalender file from it.
 
+![Screenshot](https://raw.github.com/xnt14/PaxSchedule-To-ICS/master/screenshot.png "Screenshot")
+
 ## Dependencies
     gem install nokogiri
     gem install ri_cal
